@@ -1,6 +1,6 @@
 object puenteDeBrooklyn{
 	var levanta=1000
-	puedePasar()
+	puedePasar(1)
 } 
 
 object matrix{
